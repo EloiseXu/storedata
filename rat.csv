@@ -1,4 +1,3 @@
-partition,offset,timestamp,timestamp_type,key,value,headers,checksum,serialized_key_size,serialized_header_size,parsed_time,parsed_userid,parsed_movieid,parsed_rating
 0,123940205,1613756309016,0,,"b'2021-02-19T12:38:29,52792,GET /rate/life+and+debt+2003=4'",[],,-1,-1,2021-02-19T12:38:29,52792,life+and+debt+2003,4
 0,123940252,1613756310010,0,,"b'2021-02-19T12:38:30,231285,GET /rate/ringu+0+2000=3'",[],,-1,-1,2021-02-19T12:38:30,231285,ringu+0+2000,3
 1,123940273,1613756310072,0,,"b'2021-02-19T12:38:30,234904,GET /rate/dirty+rotten+scoundrels+1988=4'",[],,-1,-1,2021-02-19T12:38:30,234904,dirty+rotten+scoundrels+1988,4
